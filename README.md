@@ -7,7 +7,7 @@
 A beautiful, highly customizable noise gradient background component for React applications. Create stunning, immersive backgrounds with minimal effort.
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400" alt="Noise Gradient Background Examples" width="800" />
+<img width="1200" alt="noise-gradient-bg" src="https://github.com/user-attachments/assets/c5762003-9278-4009-9533-f304e118d2ca" />
 </p>
 
 ## ✨ Features
@@ -165,6 +165,6 @@ module.exports = {
 }
 ```
 
-## 📄 License
+## 📄 For any issues
 
-MIT © [Your Name](https://github.com/yourusername)
+Create a issue in this [Repository](https://github.com/Prateek32177/noise-gradient-bg)
