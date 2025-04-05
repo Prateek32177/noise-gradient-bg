@@ -1,4 +1,3 @@
-// src/components/ui/noise-gradient-background.tsx
 import React from "react";
 import { cn } from "@/lib/utils";
 
