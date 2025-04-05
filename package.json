@@ -1,6 +1,6 @@
 {
   "name": "noise-gradient-bg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Beautiful, customizable noise gradient backgrounds for React applications",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -24,7 +24,7 @@
     "tailwind",
     "component"
   ],
-  "author": "Your Name",
+  "author": "Prateek Jain",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=16.8.0",
@@ -34,8 +34,8 @@
     "@rollup/plugin-commonjs": "^25.0.0",
     "@rollup/plugin-node-resolve": "^15.0.0",
     "@rollup/plugin-terser": "^0.4.0",
-    "@types/react": "^18.0.0",
-    "@types/react-dom": "^18.0.0",
+    "@types/react": "^18.3.20",
+    "@types/react-dom": "^18.3.6",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "rollup": "^3.20.0",
@@ -44,14 +44,18 @@
     "rollup-plugin-postcss": "^4.0.2",
     "rollup-plugin-typescript2": "^0.34.1",
     "tsup": "^6.7.0",
-    "typescript": "^5.0.0"
+    "typescript": "^5.8.2"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/noise-gradient-bg.git"
+    "url": "https://github.com/prateek32177/noise-gradient-bg.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/noise-gradient-bg/issues"
+    "url": "https://github.com/prateek32177/noise-gradient-bg/issues"
   },
-  "homepage": "https://github.com/yourusername/noise-gradient-bg#readme"
+  "homepage": "https://github.com/prateek32177/noise-gradient-bg#readme",
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^3.1.0"
+  }
 }
