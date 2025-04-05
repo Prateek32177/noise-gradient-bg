@@ -178,4 +178,4 @@ module.exports = {
 
 Create a issue in this [Repository](https://github.com/Prateek32177/noise-gradient-bg)
 
-MIT © [Your Name](https://github.com/prateek32177/noise-gradient-bg/LICENSE)
+MIT © [Prateek Jain](https://github.com/prateek32177/noise-gradient-bg/LICENSE)
