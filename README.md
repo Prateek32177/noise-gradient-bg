@@ -7,7 +7,8 @@
 A beautiful, highly customizable noise gradient background component for React applications. Create stunning, immersive backgrounds with minimal effort.
 
 As seen on [Hookflo Hero section](https://www.hookflo.com)
-[Checkout gradient Showcase here](https://www.hookflo.com/gradient-showcase)
+<br/>
+Checkout Gradient [Showcase here](https://www.hookflo.com/gradient-showcase)
 
 
 ## ✨ Features
